@@ -12,3 +12,6 @@ Vorschlaege fuer ein Logo fuer den Bytespeicher
 
 #### L8
 ![L8](https://raw.githubusercontent.com/Bytespeicher/logo-proposals/master/drafts/L8/bs.png)
+
+#### Turning - WiP
+![Turning](https://raw.githubusercontent.com/Bytespeicher/logo-proposals/master/drafts/turning/turningspeicher.png)
